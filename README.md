@@ -82,7 +82,8 @@ app/
     <img src="Images/4.png" width="200"/>
     <img src="Images/5.png" width="200"/>
 </p>
-### Result Screen
+
+## Result Screen
 <p align="center">
   <img src="Images/6.png" width="200"/>
   <img src="Images/7.png" width="200"/>
