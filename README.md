@@ -85,17 +85,18 @@ app/
     └── libs.versions.toml
 </pre>
 
+
 ## 🖼️ Screenshots
 
-
 ### Quiz Screen
-![Quiz](Images/1.png)
-![](Images/2.png)
-![](Images/3.png)
-![](Images/4.png)
-![](Images/5.png)
+<p align="center">
+  <img src="Images/1.png" width="200"/>
+  <img src="Images/2.png" width="200"/>
+  <img src="Images/3.png" width="200"/>
+</p>
 
 ### Result Screen
-![Result](Images/6.png)
-![](Images/7.png)
-
+<p align="center">
+  <img src="Images/6.png" width="200"/>
+  <img src="Images/7.png" width="200"/>
+</p>
