@@ -19,15 +19,6 @@ Many rural and low-income families are unaware of schemes they are eligible for,
 
 ---
 
-## 💡 Solution
-Arogya-Nidhi simplifies the process by:
-- Providing an **eligibility quiz**
-- Displaying **eligible schemes instantly**
-- Showing **document checklists**
-- Listing **nearby empaneled hospitals**
-
----
-
 ## 👥 Target Users
 - Rural & semi-urban families
 - BPL cardholders
@@ -45,13 +36,6 @@ Arogya-Nidhi simplifies the process by:
 - Hospital List with District Search
 - Offline Mode (No Internet Required)
 - Input Validation
-
-### ⭐ Good to Have
-- Save Results as PDF / Share
-- GenAI Chatbot
-- Multilingual Support
-- Google Maps Integration
-- Dark Mode
 
 ---
 
