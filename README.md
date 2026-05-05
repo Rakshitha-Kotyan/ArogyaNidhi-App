@@ -85,9 +85,18 @@ app/
     └── libs.versions.toml
 </pre>
 
+## 🖼️ Screenshots
 
-## ⚙️ Setup Instructions
 
-### 1️⃣ Clone the Repository
-```bash
-git clone https://github.com/your-username/ArogyaNidhi.git
+### Quiz Screen
+![Quiz](images/1.png)
+[](images/1.png)
+[](images/2.png)
+[](images/3.png)
+[](images/4.png)
+[](images/5.png)
+
+
+![Result](images/6.png)
+[](images/7.png)
+
